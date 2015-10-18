@@ -1,0 +1,36 @@
+{
+  "name": "esw-portfolio",
+  "version": "1.0.0",
+  "description": "Esther S. Weon Portfolio",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "devDependencies": {
+    "browserify": "^11.2.0",
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-uglify": "^1.4.1",
+    "gulp-util": "^3.0.6",
+    "reactify": "^1.1.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esthersweon/Portfolio.git"
+  },
+  "author": "esthersweon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esthersweon/Portfolio/issues"
+  },
+  "homepage": "https://github.com/esthersweon/Portfolio#readme"
+}
