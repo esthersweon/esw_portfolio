@@ -1,0 +1,66 @@
+module.exports = [
+	{
+		id: 1,
+		slug: "advent-software",
+		client: "Advent Software", 
+		thumbnailImage: "",
+		blurb: "Creating a user dashboard for an investment management software company",
+		techStack: "Node.js for back-end, Kendo UI for data visualization",
+		link: "", 
+		tags: []
+	}, {
+		id: 2,
+		slug: "education-super-highway",
+		client: "EducationSuperHighway", 
+		thumbnailImage: "",
+		blurb: "Creating an analytics dashboard for schools to determine steps for broadband access",
+		techStack: "D3.js for data visualization",
+		link: "", 
+		tags: []
+	}, {
+		id: 3,
+		slug: "logitech",
+		client: "Logitech", 
+		thumbnailImage: "",
+		blurb: "Rapid prototyping for a companion iOS app built for Logitech's Boom speaker",
+		techStack: "Ionic.js, HTML, CSS",
+		link: "", 
+		tags: []
+	}, {
+		id: 4,
+		slug: "stamen-design-nat-geo",
+		client: "Stamen Design & National Geographic", 
+		thumbnailImage: "",
+		blurb: "Creating a web feature on the Amazon Forest on the National Geographic website",
+		techStack: "React.js for front-end",
+		link: "", 
+		tags: []
+	}, {
+		id: 5,
+		slug: "code-2040",
+		client: "CODE2040", 
+		thumbnailImage: "",
+		blurb: "Creating a dashboard for companies to review CODE2040 fellows for internship openings",
+		techStack: "Ruby on Rails for back-end, React.js for front-end",
+		link: "", 
+		tags: []
+	}, {
+		id: 6,
+		slug: "mindswarms",
+		client: "MindSwarms", 
+		thumbnailImage: "",
+		blurb: "Creating an Android app for a consumer survey company",
+		techStack: "React Native",
+		link: "", 
+		tags: []
+	}, {
+		id: 7,
+		slug: "clarify-health",
+		client: "Clarify Health", 
+		thumbnailImage: "",
+		blurb: "Creating a portal for hospital care coordinators to keep tabs on patient treatment and post-op care",
+		techStack: "Node.js for back-end, Angular.js for front-end",
+		link: "", 
+		tags: []
+	}
+];

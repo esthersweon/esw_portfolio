@@ -1,0 +1,17 @@
+.project-section-enter {
+  opacity: 0.01;
+}
+
+.project-section-enter.project-section-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+
+.project-section-leave {
+  opacity: 1;
+}
+
+.project-section-leave.project-section-leave-active {
+  opacity: 0.01;
+  transition: opacity 300ms ease-in;
+}

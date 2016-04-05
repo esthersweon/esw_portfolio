@@ -21,5 +21,5 @@ Visit <http://localhost:3000/>.
 ### To Compile JSX to Javascript While Developing
 
 ```sh
-gulp
+webpack --watch
 ```
